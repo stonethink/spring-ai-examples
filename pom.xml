@@ -56,11 +56,11 @@
 		<module>model-context-protocol/dynamic-tool-update/client</module>
 		<module>model-context-protocol/dynamic-tool-update/server</module>		
 
-		<module>prompt-engineering/prompt-engineering-patterns</module>
+<!--		<module>prompt-engineering/prompt-engineering-patterns</module>-->
 
 		<!-- ADVISORS -->
 		<module>advisors/recursive-advisor-demo</module>
-		<module>advisors/tool-argument-augmenter-demo</module>
+<!--		<module>advisors/tool-argument-augmenter-demo</module>-->
 		<module>advisors/evaluation-recursive-advisor-demo</module>
 		
 	</modules>
